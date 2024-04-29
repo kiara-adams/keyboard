@@ -43,8 +43,10 @@ form .display input{
     flex: 1;
     font-size: 45px;
     box-shadow: none;
+    border: black 2px solid;
+    border-color: black;
 
 }
-form input.equal{
+/* form input.equal{
     width:145px;
-}
+} */
